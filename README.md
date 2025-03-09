@@ -40,7 +40,7 @@ Details.csv → Contains product and sales details.
 
 Orders.csv → Order transaction data.
 
-DASHBOARD.png → Snapshot of the dashboard.
+techno_dashboard.png → Snapshot of the dashboard.
 
 
 
